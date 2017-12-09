@@ -100,9 +100,9 @@ null,
 "tls_fingerprint" : "",
 
 /*
- * pool_address	  - Pool address should be in the form "pool.supportxmr.com:3333". Only stratum pools are supported.
- * wallet_address - Your wallet, or pool login.
- * pool_password  - Can be empty in most cases or "x".
+ * pool_address	  - pool.karbowanec.com:3333
+ * wallet_address - KiJk2Xmq3an3C8GypZEbmtjL4vXD7B9CHJgcyaogXMtzj89KW7K37UfciW3pEeimVtidU8kEvLJT5BnDDbJtZFZA58wvwLp
+ * pool_password  - x
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
